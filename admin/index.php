@@ -1,3 +1,4 @@
+//donate : https://saweria.co/najmikhaeriap
 <?php
 $title = 'Selamat Datang di Aplikasi Pengelolaan Laundry';
 require 'koneksi.php';
