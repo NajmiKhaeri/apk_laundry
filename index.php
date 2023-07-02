@@ -1,3 +1,4 @@
+//donate : https://saweria.co/najmikhaeriap
 <!DOCTYPE html>
 <html>
 <head>
