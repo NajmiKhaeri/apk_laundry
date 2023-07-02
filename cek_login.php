@@ -1,4 +1,4 @@
-//donate : https://saweria.co/najmikhaeriap
+<!-- donate : https://saweria.co/najmikhaeriap -->
 <?php
 session_start();
 $conn = mysqli_connect("localhost", "root", "", "najmi_laundry");
